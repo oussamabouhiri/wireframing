@@ -45,7 +45,5 @@ Indicates how interactive elements, buttons, forms, and actions behave.
 ---
 
 ## Wireframe Example
-Here you can add an image of your wireframe:
-![Wireframe Example](images/wireframe.png)
+![Wireframe Example]([images/wireframe.png](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=121-1181&t=7qLXXQxl1SZ9jFVi-1))
 
-![Wireframe Example](images/wireframe.png)
